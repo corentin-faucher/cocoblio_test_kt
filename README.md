@@ -1,1 +1,1 @@
-# cocoblio_test_kt
+# Un simple projet android studio pour tester cocoblio_kt

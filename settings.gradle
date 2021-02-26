@@ -1,0 +1,4 @@
+include ':app'
+include ':cocoblio'
+project(':cocoblio').projectDir = file('../cocoblio_kt')
+rootProject.name = "cocoblio_test_kt"
